@@ -1,50 +1,10 @@
-# Welcome to your Expo app 👋
+### PicHub- A One Stop Solution for all yout Wallpaper needs
+## Made with React Native and Expo
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+### ScreenShots: 
 
-## Get started
-
-1. Install dependencies
-
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+![Screenshot_1726767695](https://github.com/user-attachments/assets/82c99e55-31b9-4445-936f-9b0bcea8de13)
+![Screenshot_1726767700](https://github.com/user-attachments/assets/f1343b6e-acf3-43d0-82f4-9f99d343cbab)
+![Screenshot_1726767733](https://github.com/user-attachments/assets/99f12d92-18a4-4c0b-95e8-ae8db1c9a24e)
+![Screenshot_1726767737](https://github.com/user-attachments/assets/56f12ef5-0563-4e3a-b24c-9e7852ad2e08)
+![Screenshot_1726767745](https://github.com/user-attachments/assets/04afd93f-f9bc-4611-96e7-9e8de6dfe593)
